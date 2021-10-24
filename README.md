@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yumithecat
 - 👀 I’m interested in coding, Minecraft servers and Networks
 - 🌱 I’m currently learning to code ._.
-- 💞️ I’m looking to collaborate with Lmaxplay xD
+- 💞️ I’m looking to collaborate with @Lmaxplay xD
 - 📫 How to reach me yumithecat@newdale.net
 
 <!---
