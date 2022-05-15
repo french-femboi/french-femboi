@@ -1,4 +1,4 @@
-![Banner Image](https://files.newdale.net/NDstatus/online.png)
+![Banner Image](https://appgyver-meap-assets.s3.amazonaws.com/uploads/asset/acual_asset/b5a1b4da-4724-4102-b14c-be32fe1bd80a/image.png)
 
 ## I'm Yumi 🎉
 
