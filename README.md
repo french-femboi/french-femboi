@@ -2,9 +2,9 @@
 
 ## I'm Yumi 🎉
 
-I am **yumithecat** working on **newdale network**. I like coding in PHP and CSS. I am still kind of a beginner and sometimes I can be lazy... Anyways, I'm also **learning to work with servers in datacenters**, and coding android apps. The only thing motivating me to keep on working is my cat (which is called yumi, what a coincidence), because she always sleeps near my warm pc.
+I am **yumithecat** working on **newdale network**. I like coding in PHP and CSS. I am still kind of a beginner and sometimes I can be lazy... Anyways, I'm also **learning to work with servers in datacenters**, and coding android apps. The only thing motivating me to keep on working is my cat (which is called yumi, what a coincidence), because she always sleeps near my warm pc. The other thing/person that motivates me is [@LmaxplayG] (https://github.com/LmaxplayG).
 
-[YouTube](https://www.youtube.com/channel/UC5U8uFFen9fKmw8neD0bDQA)**
+**[YouTube](https://www.youtube.com/channel/UC5U8uFFen9fKmw8neD0bDQA)**
 
 [![GitHub Ghazi](https://img.shields.io/github/followers/yumithecat?label=follow&style=social)](https://github.com/gkhan205)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC5U8uFFen9fKmw8neD0bDQA?style=social)
