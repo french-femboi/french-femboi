@@ -1,8 +1,8 @@
-![Banner Image](https://appgyver-meap-assets.s3.amazonaws.com/uploads/asset/acual_asset/b5a1b4da-4724-4102-b14c-be32fe1bd80a/image.png)
+![Banner Image](https://cdn.discordapp.com/attachments/967342352886792244/1027524784453586954/wonder_16648259553591.jpg)
 
 ## I'm Yumi 🎉
 
-I am **yumithecat** working on **newdale network**. I like coding in HTML and CSS. I Mainly use UIKIT, i discovered it by a friend called [Kihsomray](https://github.com/Kihsomray) (who is a very nice person)! The Newdale network is all about fun and player experience, we don't really care about the money but we are always happy with donations on our [Patreon](https://www.patreon.com/yumithecat). Our network is completely free-to-play at **mc.newdale.net**!
+I am **yumithecat** working on **newdale network**. I like coding in PHP and CSS. I am still kind of a beginner and sometimes I can be lazy... Anyways, I'm also **learning to work with servers in datacenters**, and coding android apps. The only thing motivating me to keep on working is my cat (which is called yumi, what a coincidence), because she always sleeps near my warm pc.
 
 [YouTube](https://www.youtube.com/channel/UC5U8uFFen9fKmw8neD0bDQA)**
 
@@ -16,7 +16,7 @@ I am **yumithecat** working on **newdale network**. I like coding in HTML and CS
 - 🌱 I’m currently learning **HTML - PHP - JAVASCRIPT - JAVA**
 - 💬 Ask me about **Web Development**
 - 📫 How to reach me:
-  **[Discord](https://newdale.net/discord), [E-mail](https://newdale.net/contact)**
+  **[Discord](https://newdale.net/discord), [E-mail](mailto:yumithecat@newdale.net)**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yumithecat&layout=compact&theme=dark&hide_border=true)
 
