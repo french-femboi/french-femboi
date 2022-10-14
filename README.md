@@ -6,9 +6,13 @@ I am **yumithecat** working on **newdale network**. I like coding in PHP and CSS
 
 **[YouTube](https://www.youtube.com/channel/UC5U8uFFen9fKmw8neD0bDQA)**
 
-[![GitHub Ghazi](https://img.shields.io/github/followers/yumithecat?label=follow&style=social)](https://github.com/gkhan205)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC5U8uFFen9fKmw8neD0bDQA?style=social)
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC5U8uFFen9fKmw8neD0bDQA?style=social)
+<img src="https://img.shields.io/github/followers/yumithecat?style=social"></img>
+<img src="https://img.shields.io/twitter/follow/yumithecat_?style=social"></img>
+<img src="https://img.shields.io/twitch/status/yumithecat_?style=social"></img>
+<img src="https://img.shields.io/github/stars/yumithecat?style=social"></img>
+<img src="https://img.shields.io/youtube/channel/views/UC5U8uFFen9fKmw8neD0bDQA?style=social"></img>
+<img src="https://img.shields.io/youtube/channel/subscribers/UC5U8uFFen9fKmw8neD0bDQA?style=social"></img>
+<img src="https://img.shields.io/reddit/user-karma/combined/Yumithecat_?style=social"></img>
 
 ---
 
