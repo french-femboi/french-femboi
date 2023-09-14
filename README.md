@@ -1,4 +1,4 @@
-![Banner Image](https://develoopers.net/wp-content/uploads/2023/08/20221128_195256-scaled.webp)
+![Banner Image](https://develoopers.net/wp-content/uploads/2023/09/20221128_195256-scaled-1-jpg.webp)
 
 ## Heya :] I'm Yumi! 🎉
 
