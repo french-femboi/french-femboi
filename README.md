@@ -1,4 +1,4 @@
-![Banner Image](https://cdn.discordapp.com/attachments/967342352886792244/1027524784453586954/wonder_16648259553591.jpg)
+![Banner Image](https://develoopers.net/wp-content/uploads/2023/08/20221128_195256-scaled.webp)
 
 ## Heya :] I'm Yumi! 🎉
 
