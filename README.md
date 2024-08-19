@@ -1,8 +1,8 @@
-![Catpawzzzz](https://git.dynapaw.eu/fluffy_catpawz/.profile/raw/commit/1018e100be784458a6dd26d340954077ca826ae1/banner.png)
+![Catpawzzzz](https://git.cloud.catpawz.eu/Catpawz/.profile/raw/commit/63b743c1c409d6127cec06fabb7205625b07aca3/banner.png)
 
 ## Heya :] I'm Catpawz! 🎉
 
-I am **Catpawz** working on **Dynapaw, Dynawave and McMilford.eu**. I like coding in PHP and CSS. I am still kind of a beginner and sometimes I can be lazy... Anyways, I'm also **learning to work with servers in datacenters**, and coding android apps. The only thing motivating me to keep on working is my cat, because she always sleeps near my warm pc. 
+I am **Catpawz** working on **On my own projects, Dynapaw and McMilford.eu**. I like coding in PHP and CSS and DART. I am still kind of a beginner and sometimes I can be lazy... Anyways, I'm also **learning to work with servers in datacenters**, and coding android apps. The only thing motivating me to keep on working is my cat, because she always sleeps near my warm pc. 
 
 <img src="https://wakapi.dynapaw.eu/api/badge/yumi/interval:today?label=today"></img>
 <img src="https://wakapi.dynapaw.eu/api/badge/yumi/interval:30_days?label=last%2030d"></img>
@@ -13,7 +13,7 @@ I am **Catpawz** working on **Dynapaw, Dynawave and McMilford.eu**. I like codin
 - 🌱 I’m currently learning **HTML - PHP - JAVASCRIPT - JAVA - Dart - XML**
 - 💬 Ask me about **Web Development**
 - 📫 How to reach me:
-  **[Discord](https://discordapp.com/users/852891077097947156), [E-mail](mailto:yumithecat@dynapaw.eu)**
+  **[Discord](https://discordapp.com/users/852891077097947156), [E-mail](mailto:catpawz@catpawz.eu)**
 - 🌐 Websites: 
   **[Info](https://info.catpawz.eu), [CV](https://portfolio.catpawz.eu), [Projects](https://projects.catpawz.eu)**
 
