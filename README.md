@@ -1,4 +1,4 @@
-![Catpawzzzz](https://git.cloud.catpawz.eu/Catpawz/.profile/raw/commit/63b743c1c409d6127cec06fabb7205625b07aca3/banner.png)
+![Catpawzzzz](https://cd.catpawz.eu/03-CATPAWZ/03.02%20-%20OTHER/wallpaper2.png)
 
 ## Heya :] I'm Catpawz! 🎉
 
