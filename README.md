@@ -1,4 +1,4 @@
-![Catpawzzzz](https://cd.catpawz.eu/03-CATPAWZ/03.02%20-%20OTHER/wallpaper2.png)
+![Catpawzzzz](https://cd.catpawz.eu/03-CATPAWZ/03.02%20-%20OTHER/banner.png)
 
 ## Heya :] I'm Catpawz! 🎉
 
