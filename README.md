@@ -6,6 +6,7 @@ I am **Catpawz** working on **On my own projects, Dynapaw and McMilford.eu**. I 
 
 <img src="https://wakapi.dynapaw.eu/api/badge/yumi/interval:today?label=today"></img>
 <img src="https://wakapi.dynapaw.eu/api/badge/yumi/interval:30_days?label=last%2030d"></img>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N2FINT7)
 
 ---
 
