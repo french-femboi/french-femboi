@@ -18,4 +18,4 @@ I am **Catpawz** working on **On my own projects, Dynapaw and McMilford.eu**. I 
 - 🌐 Websites: 
   **[Info](https://info.french-femboi.eu), [CV](https://portfolio.french-femboi.eu), [Projects](https://projects.french-femboi.eu)**
 
-[![Catpawz's github stats](https://github-readme-stats.vercel.app/api?username=french-femboi&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/french-femboi/)
+<img style="height: 400px;" src="https://github-readme-stats.vercel.app/api/wakatime?username=yumi&api_domain=wakapi.srv1.french-femboi.eu&bg_color=110d17&title_color=c9a8e7&icon_color=2F855A&text_color=ffffff&custom_title=Catpawz%20%20programing%20%20stats">
