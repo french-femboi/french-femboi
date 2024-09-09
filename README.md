@@ -1,8 +1,10 @@
-![Catpawzzzz](https://cd.catpawz.eu/03-CATPAWZ/03.02%20-%20OTHER/banner.png)
+![Catpawzzzz](https://cd.catpawz.eu/03-CATPAWZ/03.02%20-%20OTHER/banner-new.png)
 
 ## Heya :] I'm Catpawz! 🎉
 
 I am **Catpawz** working on **On my own projects, Dynapaw and McMilford.eu**. I like coding in PHP and CSS and DART. I am still kind of a beginner and sometimes I can be lazy... Anyways, I'm also **learning to work with servers in datacenters**, and coding android apps. The only thing motivating me to keep on working is my cat, because she always sleeps near my warm pc. 
+
+If you need any code for development projects please don't hesitate to commission me [here](https://ko-fi.com/french_femboi/commissions)!
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N2FINT7)
 
