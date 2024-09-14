@@ -11,7 +11,7 @@ If you need any code for development projects please don't hesitate to commissio
 ---
 
 - 🔭 I’m currently working on **Dynapaw, Hypercore and McMilford.eu**
-- 🌱 I’m currently learning **HTML - PHP - JAVASCRIPT - JAVA - Dart - XML**
+- 🌱 I’m currently learning **HTML - PHP - JAVASCRIPT - JAVA - Dart - XML - C - C++**
 - 💬 Ask me about **Web Development**
 - 📫 How to reach me:
   **[Discord](https://discordapp.com/users/852891077097947156), [E-mail](mailto:cat@french-femboi.eu)**
