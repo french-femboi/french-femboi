@@ -22,5 +22,5 @@ If you need any code for development projects please don't hesitate to commissio
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=french-femboi&theme=jolly&hide_border=true" alt="french-femboi's GitHub Stats" /><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=french-femboi&theme=jolly&show_icons=true&hide_border=true&layout=compact" alt="french-femboi's GitHub Stats" />
   
-  [![Discord Presence](https://lanyard.cnrad.dev/api/852891077097947156)](https://discord.com/users/852891077097947156)
+[![Discord Presence](https://lanyard.cnrad.dev/api/852891077097947156)](https://discord.com/users/852891077097947156)
 
