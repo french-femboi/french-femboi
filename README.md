@@ -16,7 +16,7 @@ If you need any code for development projects please don't hesitate to commissio
 - 📫 How to reach me:
   **[Discord](https://discordapp.com/users/852891077097947156), [E-mail](mailto:cat@fcatpawz.net)**
 - 🌐 Websites: 
-  **[Info](https://info.french-femboi.eu), [CV](https://portfolio.french-femboi.eu), [Projects](https://projects.french-femboi.eu)**
+  **[Info](https://info.catpawz.net), [CV](https://portfolio.catpawz.net), [Projects](https://projects.catpawz.net)**
 
   <img src="https://github-readme-stats.vercel.app/api?username=french-femboi&theme=jolly&show_icons=true&hide_border=true&count_private=true" alt="french-femboi's GitHub Stats" />
   
