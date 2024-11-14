@@ -14,15 +14,15 @@ If you need any code for development projects please don't hesitate to commissio
 - 🌱 I’m currently learning **HTML - PHP - JAVASCRIPT - JAVA - Dart - XML - C - C++**
 - 💬 Ask me about **Web development**, **flutter development**, **Datacenters & Servers** and **cats**
 - 📫 How to reach me:
-  **[Discord](https://discordapp.com/users/852891077097947156), [E-mail](mailto:cat@fcatpawz.net)**
+  **[Discord](https://discordapp.com/users/852891077097947156), [E-mail](mailto:cat@catpawz.net)**
 - 🌐 Websites: 
-  **[Info](https://info.catpawz.net), [CV](https://portfolio.catpawz.net), [Projects](https://projects.catpawz.net)**
+  **[Info](https://catpawz.net/information), [CV](https://catpawz.net/portfolio), [Projects](https://catpawz.net/projects)**
 
-  <img src="https://github-readme-stats.vercel.app/api?username=french-femboi&theme=jolly&show_icons=true&hide_border=true&count_private=true" alt="french-femboi's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=catpawzz&theme=jolly&show_icons=true&hide_border=true&count_private=true" alt="catpawzz's GitHub Stats" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=french-femboi&theme=jolly&hide_border=true" alt="french-femboi's GitHub Stats" /><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=catpawzz&theme=jolly&hide_border=true" alt="catpawzz's GitHub Stats" /><br>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=french-femboi&theme=jolly&show_icons=true&hide_border=true&layout=compact" alt="french-femboi's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=catpawzz&theme=jolly&show_icons=true&hide_border=true&layout=compact" alt="catpawzz's GitHub Stats" />
   
 [![Discord Presence](https://lanyard.cnrad.dev/api/852891077097947156)](https://discord.com/users/852891077097947156)
 
