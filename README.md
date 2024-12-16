@@ -20,7 +20,7 @@ If you need any code for development projects please don't hesitate to commissio
 
   <img src="https://github-readme-stats.vercel.app/api?username=catpawzz&theme=jolly&show_icons=true&hide_border=true&count_private=true" alt="catpawzz's GitHub Stats" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=catpawzz&theme=jolly&hide_border=true" alt="catpawzz's GitHub Stats" /><br>
+  [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=catpawzz&theme=jolly&hide_border=true)](https://git.io/streak-stats)
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=catpawzz&theme=jolly&show_icons=true&hide_border=true&layout=compact" alt="catpawzz's GitHub Stats" />
   
